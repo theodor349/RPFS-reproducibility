@@ -16,6 +16,7 @@ Follow the guide to produce all tables and figures, using precomputed results.
 ### Requirements
  - Git LFS
  - .NET 6 Runtime + SDK
+ - 2 GB free storage space
 
 ### Guide
     git clone https://github.com/theodor349/RPFS-reproducibility
@@ -29,13 +30,15 @@ Follow the guide to produce all tables and figures, using precomputed results.
 > **Warning**
 >
 > The results used in the paper were computed using a CPU cluster. 
-> This will take a *long* time to run on a single CPU.
+> This will take a *long* time to run on a single CPU. (~1 week)
 
 ### Requirements 
  - OS: Linux
  - Git LFS
  - GNU time(1), timeout(1)
  - .NET 6 runtime + SDK
+ - 25 GB free storage space
+ - 16 GB RAM
 
 ### Guide 
     git clone https://github.com/theodor349/RPFS-reproducibility
@@ -57,13 +60,15 @@ Run the competition benchmark with and without RPFS, and produce a table compari
 > **Warning**
 >
 > The results used in the paper were computed using a CPU cluster. 
-> This will take a *very long* time to run on a single CPU.
+> This will take a *very long* time to run on a single CPU. (~2 weeks)
 
 ### Requirements 
  - OS: Linux
  - Git LFS
  - time(1), timeout(1), parallel(1), bc(1), awk(1)
  - .NET 6 runtime + SDK
+ - 25 GB free storage space
+ - 16 GB RAM
 
 ### Guide 
     git clone https://github.com/theodor349/RPFS-reproducibility
