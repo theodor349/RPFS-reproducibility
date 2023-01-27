@@ -16,7 +16,7 @@ Follow the guide to produce all tables and figures, using precomputed results.
 ### Requirements
  - Git LFS
  - .NET 6 Runtime + SDK
- - 2 GB free storage space
+ - 4 GB free storage space
 
 ### Guide
     git clone https://github.com/theodor349/RPFS-reproducibility
