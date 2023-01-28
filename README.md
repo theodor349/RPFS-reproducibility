@@ -35,7 +35,7 @@ Follow the guide to produce all tables and figures, using precomputed results.
 ### Requirements 
  - OS: Linux
  - Git LFS
- - GNU time(1), timeout(1)
+ - time(1), timeout(1), bc(1), awk(1)
  - .NET 6 runtime + SDK
  - 25 GB free storage space
  - 16 GB RAM
