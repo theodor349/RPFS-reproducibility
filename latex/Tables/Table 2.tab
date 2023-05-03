@@ -1,0 +1,8 @@
+\textbf{} & \textbf{BestFS} & \textbf{RPFS} & \textbf{BestFS \%} & \textbf{RPFS \%} \\
+	\hline \\
+	Cardinality & 20308 & 20471 & 96,08 \% & 96,85 \% \\
+	\hline \\
+	Fireability & 19541 & 19894 & 92,45 \% & 94,12 \% \\
+	\hline \\
+	Total & 39849 & 40365 & 94,27 \% & 95,49 \% \\
+	\hline \\

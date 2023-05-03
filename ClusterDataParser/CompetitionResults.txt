@@ -1,0 +1,6 @@
+DIFFERENCES IN ReachabilityCardinality :
+MCC22-2cee3b71.BestFS.ReachabilityCardinality -> 20308
+MCC22-2cee3b71.RPFS.ReachabilityCardinality -> 20471
+DIFFERENCES IN ReachabilityFireability :
+MCC22-2cee3b71.BestFS.ReachabilityFireability -> 19541
+MCC22-2cee3b71.RPFS.ReachabilityFireability -> 19894

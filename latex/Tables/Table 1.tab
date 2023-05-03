@@ -1,0 +1,16 @@
+\textbf{Strategy} & \textbf{Total} & \textbf{Solved} & \textbf{Solved \%} & \textbf{Timeouts} & \textbf{Errors} & \textbf{Fastest} & \textbf{Unique} & \textbf{Unique All}\\
+	\hline
+	BFS & 10184 & 7367 & 72.3 \% & 2812 & 5 & 856 & 100 & 16 \\
+	\hline
+	DFS & 10184 & 8235 & 80.9 \% & 1942 & 7 & 1691 & 14 & 7 \\
+	\hline
+	RDFS & 10184 & 8641 & 84.8 \% & 1520 & 23 & 2452 & 218 & 41 \\
+	\hline
+	BestFS & 10184 & 8617 & 84.6 \% & 1562 & 5 & 2358 & 177 & 31 \\
+	\hline
+	RPFS & 10184 & 9153 & 89.9 \% & 1026 & 5 & 2000 & - & 178 \\
+	\hline
+	Virtual Best Standard & 10184 & 9179 & 90.1 \% & 1000 & - & - & - \\
+	\hline
+	Virtual Best All & 10184 & 9357 & 91.9 \% & 822 & - & - & - \\
+	\hline

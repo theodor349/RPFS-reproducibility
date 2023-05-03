@@ -1,0 +1,6 @@
+DIFFERENCES IN ReachabilityCardinality :
+base.ReachabilityCardinality -> 20308
+RPFS.ReachabilityCardinality -> 20471
+DIFFERENCES IN ReachabilityFireability :
+base.ReachabilityFireability -> 19541
+RPFS.ReachabilityFireability -> 19894
